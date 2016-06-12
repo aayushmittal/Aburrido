@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Login Screen</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_list">ListActivity</string>
+
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="title_activity_results">ResultsActivity</string>
+</resources>
